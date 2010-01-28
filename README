@@ -1,0 +1,5 @@
+To build and run:
+  make
+  make run
+  
+Output image will be in Mandelbrot.ppm.
