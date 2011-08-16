@@ -1,0 +1,4 @@
+Distributed Mandelbrot generator, written in Erlang. To build and run:
+
+erlc *.erl
+./mandel.sh
